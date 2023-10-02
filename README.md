@@ -31,4 +31,6 @@ LT_ACCESS_KEY=your-lambdatest-access-key
 **4.Write your Cypress tests** using ShadowDOM components. Example test in cypress/integration/shadowdom.spec.js:
 
 **5.Run the Cypress tests**
+npm run test
+
 
