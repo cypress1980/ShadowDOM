@@ -27,4 +27,8 @@ makefile
 Copy code
 LT_USERNAME=your-lambdatest-username
 LT_ACCESS_KEY=your-lambdatest-access-key
-Write your Cypress tests using ShadowDOM components. Example test in cypress/integration/shadowdom.spec.js:
+
+**4.Write your Cypress tests** using ShadowDOM components. Example test in cypress/integration/shadowdom.spec.js:
+
+**5.Run the Cypress tests**
+
