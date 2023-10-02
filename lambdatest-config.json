@@ -1,0 +1,39 @@
+{
+   "lambdatest_auth": {
+      "username": "kailashpathak",
+      "access_key": "7aVuffQRbXRFUHrYbLhjSvBUiz3ctCih23e42NrDQxnDWErzD1"
+   },
+   "browsers": [
+      {
+         "browser": "Chrome",
+         "platform": "Windows 10",
+         "versions": [
+            "latest-1"
+         ]
+      },
+      {
+         "browser": "Firefox",
+         "platform": "Windows 10",
+         "versions": [
+            "latest-1"
+         ]
+      }
+   ],
+   "run_settings": {
+      "build_name": "Cypress With Shadow DOM Example ",
+      "parallels": 2,
+      "specs": "./cypress/e2e/shadowDom/*.cy.js",
+      "ignore_files": "",
+      "feature_file_suppport": false,
+      "network": true,
+      "headless": false,
+      "reporter_config_file": "",
+      "npm_dependencies": {
+        "cypress": "13.3.0"
+      }
+    },
+    "tunnel_settings": {
+      "tunnel": false,
+      "tunnel_name": null
+    }
+   }

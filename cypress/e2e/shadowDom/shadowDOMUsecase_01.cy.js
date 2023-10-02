@@ -24,7 +24,7 @@ describe("Enter data in Fields Inside Shadow DOM By enabling Flag “includeShad
     
 
 })
-describe.only("Enter data in Fields Inside Shadow DOM  By adding Flag in commands “includeShadowDom”: true, ", () => {
+describe("Enter data in Fields Inside Shadow DOM  By adding Flag in commands “includeShadowDom”: true, ", () => {
   beforeEach(() => {
     cy.visit("https://www.lambdatest.com/selenium-playground/shadow-dom");
   });
