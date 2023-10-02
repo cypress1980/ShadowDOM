@@ -21,7 +21,7 @@ Cypress installed globally (npm install -g cypress).
 
 **1. Clone the repository:**
 git clone <repository-url>
-cd shadowdom-cypress-lambdatest
+shadowdom-cypress-lambdatest
 
 **2. Install dependencies:**
 
