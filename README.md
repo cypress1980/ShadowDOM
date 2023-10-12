@@ -1,4 +1,4 @@
-# ShadowDOM
+# ShadowDOM-Cypress
 ShadowDOM with Cypress and LambdaTest
 This repository demonstrates how to use ShadowDOM in combination with Cypress for testing web applications. 
 Additionally, it leverages LambdaTest, a cloud-based cross-browser testing platform,  to ensure the compatibility of ShadowDOM components across different browsers and devices.
