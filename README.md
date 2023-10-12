@@ -39,4 +39,5 @@ LT_ACCESS_KEY=your-lambdatest-access-key
 **5.Run the Cypress tests**
 npm run test
 
+💭 Checkout the blogs related to Testing on Medium (https://medium.com/@kailash-pathak), My Website (https://qaautomationlabs.com/blog) and LambdaTest blogs (https://www.lambdatest.com/blog/author/kailash-pathak/)
 
